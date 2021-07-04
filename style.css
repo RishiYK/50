@@ -1,0 +1,35 @@
+.head{
+
+    
+    background-color:white;
+    font-family:fantasy;
+}
+.menu{
+    display: flex;
+    justify-content:first baseline; 
+    font-family: monospace;
+}
+.grid{
+    background-color: turquoise;
+    display: flex;
+    justify-content:space-evenly;
+    font-family:monospace;
+}
+.chameleon{
+    background-color: turquoise;
+    display: flex;
+    justify-content:space-evenly;
+    font-family: monospace;
+}
+.pigeon{
+    background-color: turquoise;
+    display: flex;
+    justify-content:space-evenly;
+    font-family: monospace;
+}
+.panda{
+    background-color: turquoise;
+    display: flex;
+    justify-content:space-evenly;
+    font-family: monospace;
+}
